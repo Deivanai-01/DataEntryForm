@@ -1,2 +1,4 @@
-# Deiva
-This is first repository
+# Data Entry Project
+
+This is the data entry form for employee details
+
